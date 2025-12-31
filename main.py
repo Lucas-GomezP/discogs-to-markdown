@@ -221,6 +221,6 @@ with col_f4:
 st.markdown("""
 <div style="text-align: center; margin-top: 20px; color: gray; font-size: 0.8em;">
     Desarrollado con ❤️ usando Streamlit y la API de Discogs.<br>
-    <a href="https://github.com/TU_USUARIO/TU_REPO" target="_blank">Ver código fuente de esta App</a>
+    <a href="https://github.com/Lucas-GomezP/discogs-to-markdown" target="_blank">Ver código fuente de esta App</a>
 </div>
 """, unsafe_allow_html=True)
